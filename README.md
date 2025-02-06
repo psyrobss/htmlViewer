@@ -4,8 +4,9 @@
 [![PySide6](https://img.shields.io/badge/PySide6-6.4+-green.svg)](https://pypi.org/project/PySide6/)
 
 Um visualizador de HTML com navegação de diretórios integrada, desenvolvido em Python com interface gráfica PySide6.
+Desenvolvido no Deepseek.
 
-![Screenshot](images/screenshot.png) <!-- Adicione uma screenshot real -->
+![Screenshot](images/screenshot.png) 
 
 ## ✨ Funcionalidades
 
